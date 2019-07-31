@@ -5,17 +5,17 @@
 
 You need Node.js to run this project.
 
-- Install Node.js if Required from this link: [Node js](https://nodejs.org/en/download/).
-- Run the **server.js** file with node using the command ```node server.js``` and open the http://localhost:3060/. in any browser.
+- Install Node.js: [Node js](https://nodejs.org/en/download/).
+- Run the **server.js** file using the command ```node server.js``` in command prompt and open the http://localhost:3060/. in any browser.
 
 
 **About the Project:**
 
-This is a Tracing Game where the User can Trace the Alphabets and learn. This is very useful game for children. 
+This is a Tracing Game where the user can trace the Alphabets. This is very useful game for children. 
 
-- It had both touch and mouse functionalities and it is developed using HTML5 Canvas. The images used are in ".png" format.
+- It has both **Touch** and **Mouse** functionality support and is developed using **HTML5 Canvas**. The images are in ".png" format.
 - It is developed using HTML, CSS, JS, Node. 
-- An Angular7 Version is also available. You can ping me for its details.
+- An Angular-7 Version Project is also available. You can ping me for its details.
 
 **e-mail**: srikanthdsnv96@gmail.com
 
