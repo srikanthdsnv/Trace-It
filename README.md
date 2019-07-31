@@ -21,6 +21,7 @@ It is developed using HTML, CSS, JS, Node. An Angular7 Version is also available
 Mail: srikanthdsnv96@gmail.com
 
 
-These are the sample Screenshots of the tracing game:
+Some sample screenshots of the tracing game:
 
 ![ainitial](https://user-images.githubusercontent.com/38306134/62183256-179a9e80-b377-11e9-8e9a-0242affe5bd6.png)
+![aafter](https://user-images.githubusercontent.com/38306134/62183301-4e70b480-b377-11e9-9570-86c2a5958a0b.png)
