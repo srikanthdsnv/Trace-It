@@ -12,15 +12,15 @@
   var touched = false;
 
   document.getElementById('imageA').addEventListener('click', function (e) {
-    paintletter(e.toElement.currentSrc);
+    paintletter(e.srcElement.currentSrc);
   })
 
   document.getElementById('imagea').addEventListener('click', function (e) {
-    paintletter(e.toElement.currentSrc);
+    paintletter(e.srcElement.currentSrc);
   })
 
   document.getElementById('imagec').addEventListener('click', function (e) {
-    paintletter(e.toElement.currentSrc);
+    paintletter(e.srcElement.currentSrc);
   })
   
   function paintletter(src) {
